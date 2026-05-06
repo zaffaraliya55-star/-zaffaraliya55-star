@@ -11,6 +11,7 @@ I love coding and I'm currently learning **JavaScript** and **English** at PACC.
 
 ### 🎯 My Goals:
 - Become a Pro Full Stack Developer.
+- And start my own business .
 
 ### 🌟 Fun Fact:
 - I'm learning the Turkish language! 🇹🇷
